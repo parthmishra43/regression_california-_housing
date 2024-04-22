@@ -1,1 +1,1 @@
-# regression_california-_housing
+This project loads and preprocesses the dataset by splitting it into training, validation, and test sets, followed by feature standardization. Two types of models are then constructed: a simple Sequential model and a more complex model using the Functional API. The models are trained and evaluated on the dataset, with performance metrics such as mean squared error utilized for optimization. 
